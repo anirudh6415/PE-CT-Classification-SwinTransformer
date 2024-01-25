@@ -1,0 +1,3 @@
+*.ipynb_checkpoints
+/unwanted
+/__pycache__

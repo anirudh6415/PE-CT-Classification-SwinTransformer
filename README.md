@@ -46,7 +46,7 @@ This repository contains the code for classifying Pulmonary Embolism (PE) in CT 
 
 ## Result
 
-![Training Loss](images/RSNAtrainingloss.png.png)
+![Training Loss](images/RSNAtrainingloss.png)
 *Caption: Training Loss.*
 
 ![ROC curve and AUC Score](images/RSNAPEAUC.png)
